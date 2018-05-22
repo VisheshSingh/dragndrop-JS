@@ -20,3 +20,16 @@ body {
   border: 3px solid salmon;
   background: #fff;
 }
+
+.hold {
+  border: 4px #ccc solid;
+}
+
+.hovered {
+  background: #f4f4f4;
+  border-style: dashed;
+}
+
+.invisible {
+  display: none;
+}
